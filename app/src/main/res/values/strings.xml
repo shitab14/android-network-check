@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Network Check</string>
+    <string name="instruction">Try Toggling the \nAirplane Mode/ Wifi/ Mobile Network!</string>
+</resources>
